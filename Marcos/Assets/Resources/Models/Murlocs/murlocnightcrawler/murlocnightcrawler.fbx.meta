@@ -1,0 +1,214 @@
+fileFormatVersion: 2
+guid: 08590c275fc7b12dfb19f792d56110b1
+ModelImporter:
+  serializedVersion: 21100
+  internalIDToNameTable:
+  - first:
+      74: 7902594880397236757
+    second: MurlocNightCrawler Nodes|#UNANIMATED.012
+  - first:
+      74: 7792869043248011025
+    second: MurlocNightCrawler Nodes|Attack 1.012
+  - first:
+      74: -3574651169964664254
+    second: MurlocNightCrawler Nodes|Attack 2.010
+  - first:
+      74: -1152720721353377652
+    second: MurlocNightCrawler Nodes|Attack Spell Swim 1.011
+  - first:
+      74: 2310542331970910923
+    second: MurlocNightCrawler Nodes|Death 1.012
+  - first:
+      74: -820712911083432975
+    second: MurlocNightCrawler Nodes|Death Swim 1.012
+  - first:
+      74: -5783496685511626588
+    second: MurlocNightCrawler Nodes|Decay Bone.012
+  - first:
+      74: 1113616400020835874
+    second: MurlocNightCrawler Nodes|Decay Flesh.012
+  - first:
+      74: -4411463977473234973
+    second: MurlocNightCrawler Nodes|Decay Swim.012
+  - first:
+      74: 391034901225938176
+    second: MurlocNightCrawler Nodes|Spell 1.011
+  - first:
+      74: 5775112557794832947
+    second: MurlocNightCrawler Nodes|Stand 1.012
+  - first:
+      74: -4266656356038076716
+    second: MurlocNightCrawler Nodes|Stand 2.012
+  - first:
+      74: 3425326369757050861
+    second: MurlocNightCrawler Nodes|Stand 3.012
+  - first:
+      74: -219507156122916333
+    second: MurlocNightCrawler Nodes|Stand Swim 1.012
+  - first:
+      74: 474499767940754573
+    second: MurlocNightCrawler Nodes|Walk 1.012
+  - first:
+      74: -847150150326367431
+    second: MurlocNightCrawler Nodes|Walk Swim 1.012
+  - first:
+      74: 6098667138116534311
+    second: MurlocNightCrawler Nodes|MurlocNightCrawler Nodes|MurlocNightCrawler
+      Nodes|#UNANIMATED.0
+  - first:
+      74: 9147815436433205579
+    second: MurlocNightCrawler Nodes|MurlocNightCrawler Nodes|MurlocNightCrawler
+      Nodes|Attack 1.012|
+  - first:
+      74: 3722264688746265282
+    second: MurlocNightCrawler Nodes|MurlocNightCrawler Nodes|MurlocNightCrawler
+      Nodes|Attack 2.010|
+  - first:
+      74: 5037217925617650655
+    second: 'MurlocNightCrawler Nodes|MurlocNightCrawler Nodes|MurlocNightCrawler
+      Nodes|Attack Spell '
+  - first:
+      74: 8831174529654312572
+    second: MurlocNightCrawler Nodes|MurlocNightCrawler Nodes|MurlocNightCrawler
+      Nodes|Death 1.012|M
+  - first:
+      74: 1050617200393171426
+    second: MurlocNightCrawler Nodes|MurlocNightCrawler Nodes|MurlocNightCrawler
+      Nodes|Death Swim 1.
+  - first:
+      74: 7151389813364345278
+    second: MurlocNightCrawler Nodes|MurlocNightCrawler Nodes|MurlocNightCrawler
+      Nodes|Decay Bone.01
+  - first:
+      74: -472668757347370870
+    second: MurlocNightCrawler Nodes|MurlocNightCrawler Nodes|MurlocNightCrawler
+      Nodes|Decay Flesh.0
+  - first:
+      74: -8547344781766883328
+    second: MurlocNightCrawler Nodes|MurlocNightCrawler Nodes|MurlocNightCrawler
+      Nodes|Decay Swim.01
+  - first:
+      74: -5496288815612235827
+    second: MurlocNightCrawler Nodes|MurlocNightCrawler Nodes|MurlocNightCrawler
+      Nodes|Spell 1.011|M
+  - first:
+      74: 1358804951750281014
+    second: MurlocNightCrawler Nodes|MurlocNightCrawler Nodes|MurlocNightCrawler
+      Nodes|Stand 1.012|M
+  - first:
+      74: -2669296019282351718
+    second: MurlocNightCrawler Nodes|MurlocNightCrawler Nodes|MurlocNightCrawler
+      Nodes|Stand 2.012|M
+  - first:
+      74: -2839894969448743994
+    second: MurlocNightCrawler Nodes|MurlocNightCrawler Nodes|MurlocNightCrawler
+      Nodes|Stand 3.012|M
+  - first:
+      74: 1840243191246512233
+    second: MurlocNightCrawler Nodes|MurlocNightCrawler Nodes|MurlocNightCrawler
+      Nodes|Stand Swim 1.
+  - first:
+      74: 4287418570295208275
+    second: MurlocNightCrawler Nodes|MurlocNightCrawler Nodes|MurlocNightCrawler
+      Nodes|Walk 1.012|Mu
+  - first:
+      74: 4536890728616226812
+    second: MurlocNightCrawler Nodes|MurlocNightCrawler Nodes|MurlocNightCrawler
+      Nodes|Walk Swim 1.0
+  externalObjects: {}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,143 @@
+﻿
+        Pass
+        {
+            Name "Universal Forward"
+            Tags 
+            { 
+                "LightMode" = "UniversalForward"
+            }
+            %FORWARDBASEBLEND%
+
+            HLSLPROGRAM
+
+            %PRAGMAS%
+
+            #pragma target %SHADERTARGET%
+
+            #pragma prefer_hlslcc gles
+            #pragma exclude_renderers d3d11_9x
+            #pragma multi_compile_fog
+            #pragma multi_compile_instancing
+            #pragma multi_compile_local __ _ALPHATEST_ON
+        
+            // Keywords
+            #pragma multi_compile _ LIGHTMAP_ON
+            #pragma multi_compile _ DIRLIGHTMAP_COMBINED
+            #pragma multi_compile _ _MAIN_LIGHT_SHADOWS
+            #pragma multi_compile _ _MAIN_LIGHT_SHADOWS_CASCADE
+            #pragma multi_compile _ADDITIONAL_LIGHTS_VERTEX _ADDITIONAL_LIGHTS _ADDITIONAL_OFF
+            #pragma multi_compile _ _ADDITIONAL_LIGHT_SHADOWS
+            #pragma multi_compile _ _SHADOWS_SOFT
+            #pragma multi_compile _ _MIXED_LIGHTING_SUBTRACTIVE
+            // GraphKeywords: <None>
+            #define VARYINGS_NEED_FOG_AND_VERTEX_LIGHT
+            #define SHADER_PASS SHADERPASS_FORWARD
+            #define SHADERPASS_FORWARD
+                 
+            // Includes
+            #include "Packages/com.unity.render-pipelines.core/ShaderLibrary/Color.hlsl"
+            #include "Packages/com.unity.render-pipelines.universal/ShaderLibrary/Core.hlsl"
+            #include "Packages/com.unity.render-pipelines.universal/ShaderLibrary/Lighting.hlsl"
+            #include "Packages/com.unity.render-pipelines.universal/ShaderLibrary/Shadows.hlsl"
+            #include "Packages/com.unity.render-pipelines.universal/ShaderLibrary/ShaderGraphFunctions.hlsl"
+            #include "Packages/com.unity.shadergraph/ShaderGraphLibrary/ShaderVariablesFunctions.hlsl"
+        
+
+         %DEFINES%
+
+         %URPINCLUDE%
+
+         %TEMPLATE_SHARED%
+            
+         CBUFFER_START(UnityPerMaterial)
+
+            %CBUFFER%
+
+         CBUFFER_END
+
+
+         %CODE%
+
+         %SHADERDESC%
+
+         #if defined(SHADERPASS_SHADOWCASTER)
+            float3 _LightDirection;
+         #endif
+
+         %VERT%
+
+         %TESSELLATION%
+
+         // fragment shader
+         fixed4 Frag (VertexToPixel IN) : SV_Target
+         {
+           UNITY_SETUP_INSTANCE_ID(IN);
+           UNITY_SETUP_STEREO_EYE_INDEX_POST_VERTEX(IN);
+
+           ShaderData d = CreateShaderData(IN);
+
+           Surface l = (Surface)0;
+
+           l.Albedo = half3(0.5, 0.5, 0.5);
+           l.Normal = float3(0,0,1);
+           l.Occlusion = 1;
+           l.Alpha = 1;
+
+           ChainSurfaceFunction(l, d);
+
+           #ifdef _USESPECULAR
+              float3 specular = l.Specular;
+              float metallic = 0;
+           #else   
+              float3 specular = 0;
+              float metallic = l.Metallic;
+          #endif
+
+           
+            InputData inputData;
+
+            inputData.positionWS = IN.worldPos;
+            inputData.normalWS = mul(l.Normal, d.TBNMatrix);
+            inputData.viewDirectionWS = SafeNormalize(d.worldSpaceViewDir);
+
+
+            #if defined(REQUIRES_VERTEX_SHADOW_COORD_INTERPOLATOR)
+                  inputData.shadowCoord = IN.shadowCoord;
+            #elif defined(MAIN_LIGHT_CALCULATE_SHADOWS)
+                  inputData.shadowCoord = TransformWorldToShadowCoord(IN.worldPos);
+            #else
+                  inputData.shadowCoord = float4(0, 0, 0, 0);
+            #endif
+
+            inputData.fogCoord = IN.fogFactorAndVertexLight.x;
+            inputData.vertexLighting = IN.fogFactorAndVertexLight.yzw;
+            inputData.bakedGI = SAMPLE_GI(IN.lightmapUV, IN.sh, inputData.normalWS);
+
+            #if !_UNLIT
+
+               half4 color = UniversalFragmentPBR(
+               inputData,
+               l.Albedo,
+               metallic,
+               specular,
+               l.Smoothness,
+               l.Occlusion,
+               l.Emission,
+               l.Alpha); 
+
+               color.rgb = MixFog(color.rgb, inputData.fogCoord);
+
+            #else
+               half4 color = half4(l.Albedo, l.Alpha);
+               color.rgb = MixFog(color.rgb, inputData.fogCoord);
+            #endif
+            ChainFinalColorForward(l, d, color);
+
+            return color;
+
+         }
+
+         ENDHLSL
+
+      }
+

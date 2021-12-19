@@ -1,0 +1,748 @@
+fileFormatVersion: 2
+guid: e8c5d59fa5f4de4169848fc6c578bac7
+ModelImporter:
+  serializedVersion: 21100
+  internalIDToNameTable:
+  - first:
+      74: -3867972678874064854
+    second: MurgulShadowcaster Nodes|#UNANIMATED.004
+  - first:
+      74: 5209765449935549427
+    second: MurgulShadowcaster Nodes|Attack 1.004
+  - first:
+      74: -7533553166477349768
+    second: MurgulShadowcaster Nodes|Attack 2.004
+  - first:
+      74: -5351844437544333446
+    second: MurgulShadowcaster Nodes|Attack Spell Swim 1.004
+  - first:
+      74: -2872378339873211652
+    second: MurgulShadowcaster Nodes|Death 1.004
+  - first:
+      74: 3107937728263694903
+    second: MurgulShadowcaster Nodes|Death Swim 1.004
+  - first:
+      74: 2678098485232505216
+    second: MurgulShadowcaster Nodes|Decay Bone.004
+  - first:
+      74: 5375883730846787879
+    second: MurgulShadowcaster Nodes|Decay Flesh.004
+  - first:
+      74: 3188476678480524223
+    second: MurgulShadowcaster Nodes|Decay Swim.004
+  - first:
+      74: 2669231396307553690
+    second: MurgulShadowcaster Nodes|Spell 1.004
+  - first:
+      74: -2680297565941345001
+    second: MurgulShadowcaster Nodes|Stand 1.004
+  - first:
+      74: 6622772713147677807
+    second: MurgulShadowcaster Nodes|Stand 2.004
+  - first:
+      74: 7621121132454680700
+    second: MurgulShadowcaster Nodes|Stand 3.004
+  - first:
+      74: 467655983022387124
+    second: MurgulShadowcaster Nodes|Stand Swim 1.004
+  - first:
+      74: 5416808853642638567
+    second: MurgulShadowcaster Nodes|Walk 1.004
+  - first:
+      74: -4179726815599893846
+    second: MurgulShadowcaster Nodes|Walk Swim 1.004
+  - first:
+      74: 8576143106930168660
+    second: MurgulShadowcaster Nodes|Walk Swim 2.004
+  - first:
+      74: 8919355752996581597
+    second: MurgulShadowcaster Nodes|MurgulShadowcaster Nodes|MurgulShadowcaster
+      Nodes|#UNANIMATED.0
+  - first:
+      74: 7893777794019373771
+    second: MurgulShadowcaster Nodes|MurgulShadowcaster Nodes|MurgulShadowcaster
+      Nodes|Attack 1.004|
+  - first:
+      74: -7159870061925071771
+    second: MurgulShadowcaster Nodes|MurgulShadowcaster Nodes|MurgulShadowcaster
+      Nodes|Attack 2.004|
+  - first:
+      74: -7329025495655585150
+    second: 'MurgulShadowcaster Nodes|MurgulShadowcaster Nodes|MurgulShadowcaster
+      Nodes|Attack Spell '
+  - first:
+      74: -9196805087877243617
+    second: MurgulShadowcaster Nodes|MurgulShadowcaster Nodes|MurgulShadowcaster
+      Nodes|Death 1.004|M
+  - first:
+      74: -7390103658827927502
+    second: MurgulShadowcaster Nodes|MurgulShadowcaster Nodes|MurgulShadowcaster
+      Nodes|Death Swim 1.
+  - first:
+      74: 8170797662162474708
+    second: MurgulShadowcaster Nodes|MurgulShadowcaster Nodes|MurgulShadowcaster
+      Nodes|Decay Bone.00
+  - first:
+      74: -5402796846338028226
+    second: MurgulShadowcaster Nodes|MurgulShadowcaster Nodes|MurgulShadowcaster
+      Nodes|Decay Flesh.0
+  - first:
+      74: -692551375749141830
+    second: MurgulShadowcaster Nodes|MurgulShadowcaster Nodes|MurgulShadowcaster
+      Nodes|Decay Swim.00
+  - first:
+      74: 8369986038460111994
+    second: MurgulShadowcaster Nodes|MurgulShadowcaster Nodes|MurgulShadowcaster
+      Nodes|Spell 1.004|M
+  - first:
+      74: 4813663700145989156
+    second: MurgulShadowcaster Nodes|MurgulShadowcaster Nodes|MurgulShadowcaster
+      Nodes|Stand 1.004|M
+  - first:
+      74: -7459535331025957456
+    second: MurgulShadowcaster Nodes|MurgulShadowcaster Nodes|MurgulShadowcaster
+      Nodes|Stand 2.004|M
+  - first:
+      74: 7142065741298541782
+    second: MurgulShadowcaster Nodes|MurgulShadowcaster Nodes|MurgulShadowcaster
+      Nodes|Stand 3.004|M
+  - first:
+      74: -8890756004094308579
+    second: MurgulShadowcaster Nodes|MurgulShadowcaster Nodes|MurgulShadowcaster
+      Nodes|Stand Swim 1.
+  - first:
+      74: 7655657570220726641
+    second: MurgulShadowcaster Nodes|MurgulShadowcaster Nodes|MurgulShadowcaster
+      Nodes|Walk 1.004|Mu
+  - first:
+      74: -2958158205601424825
+    second: MurgulShadowcaster Nodes|MurgulShadowcaster Nodes|MurgulShadowcaster
+      Nodes|Walk Swim 1.0
+  - first:
+      74: -8179039772971527488
+    second: MurgulShadowcaster Nodes|MurgulShadowcaster Nodes|MurgulShadowcaster
+      Nodes|Walk Swim 2.0
+  externalObjects: {}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: MurgulShadowcaster Nodes|MurgulShadowcaster Nodes|MurgulShadowcaster
+        Nodes|#UNANIMATED.0
+      takeName: MurgulShadowcaster Nodes|MurgulShadowcaster Nodes|MurgulShadowcaster
+        Nodes|#UNANIMATED.0
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: MurgulShadowcaster Nodes|MurgulShadowcaster Nodes|MurgulShadowcaster
+        Nodes|Attack 1.004|
+      takeName: MurgulShadowcaster Nodes|MurgulShadowcaster Nodes|MurgulShadowcaster
+        Nodes|Attack 1.004|
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 36
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: MurgulShadowcaster Nodes|MurgulShadowcaster Nodes|MurgulShadowcaster
+        Nodes|Attack 2.004|
+      takeName: MurgulShadowcaster Nodes|MurgulShadowcaster Nodes|MurgulShadowcaster
+        Nodes|Attack 2.004|
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 32
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: 'MurgulShadowcaster Nodes|MurgulShadowcaster Nodes|MurgulShadowcaster
+        Nodes|Attack Spell '
+      takeName: 'MurgulShadowcaster Nodes|MurgulShadowcaster Nodes|MurgulShadowcaster
+        Nodes|Attack Spell '
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 36
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: MurgulShadowcaster Nodes|MurgulShadowcaster Nodes|MurgulShadowcaster
+        Nodes|Death 1.004|M
+      takeName: MurgulShadowcaster Nodes|MurgulShadowcaster Nodes|MurgulShadowcaster
+        Nodes|Death 1.004|M
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 40
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: MurgulShadowcaster Nodes|MurgulShadowcaster Nodes|MurgulShadowcaster
+        Nodes|Death Swim 1.
+      takeName: MurgulShadowcaster Nodes|MurgulShadowcaster Nodes|MurgulShadowcaster
+        Nodes|Death Swim 1.
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 40
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: MurgulShadowcaster Nodes|MurgulShadowcaster Nodes|MurgulShadowcaster
+        Nodes|Decay Bone.00
+      takeName: MurgulShadowcaster Nodes|MurgulShadowcaster Nodes|MurgulShadowcaster
+        Nodes|Decay Bone.00
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 1440
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: MurgulShadowcaster Nodes|MurgulShadowcaster Nodes|MurgulShadowcaster
+        Nodes|Decay Flesh.0
+      takeName: MurgulShadowcaster Nodes|MurgulShadowcaster Nodes|MurgulShadowcaster
+        Nodes|Decay Flesh.0
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 1440
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: MurgulShadowcaster Nodes|MurgulShadowcaster Nodes|MurgulShadowcaster
+        Nodes|Decay Swim.00
+      takeName: MurgulShadowcaster Nodes|MurgulShadowcaster Nodes|MurgulShadowcaster
+        Nodes|Decay Swim.00
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 1440
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: MurgulShadowcaster Nodes|MurgulShadowcaster Nodes|MurgulShadowcaster
+        Nodes|Spell 1.004|M
+      takeName: MurgulShadowcaster Nodes|MurgulShadowcaster Nodes|MurgulShadowcaster
+        Nodes|Spell 1.004|M
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 25
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: MurgulShadowcaster Nodes|MurgulShadowcaster Nodes|MurgulShadowcaster
+        Nodes|Stand 1.004|M
+      takeName: MurgulShadowcaster Nodes|MurgulShadowcaster Nodes|MurgulShadowcaster
+        Nodes|Stand 1.004|M
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 35
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: MurgulShadowcaster Nodes|MurgulShadowcaster Nodes|MurgulShadowcaster
+        Nodes|Stand 2.004|M
+      takeName: MurgulShadowcaster Nodes|MurgulShadowcaster Nodes|MurgulShadowcaster
+        Nodes|Stand 2.004|M
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 64
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: MurgulShadowcaster Nodes|MurgulShadowcaster Nodes|MurgulShadowcaster
+        Nodes|Stand 3.004|M
+      takeName: MurgulShadowcaster Nodes|MurgulShadowcaster Nodes|MurgulShadowcaster
+        Nodes|Stand 3.004|M
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 36
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: MurgulShadowcaster Nodes|MurgulShadowcaster Nodes|MurgulShadowcaster
+        Nodes|Stand Swim 1.
+      takeName: MurgulShadowcaster Nodes|MurgulShadowcaster Nodes|MurgulShadowcaster
+        Nodes|Stand Swim 1.
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 25
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: MurgulShadowcaster Nodes|MurgulShadowcaster Nodes|MurgulShadowcaster
+        Nodes|Walk 1.004|Mu
+      takeName: MurgulShadowcaster Nodes|MurgulShadowcaster Nodes|MurgulShadowcaster
+        Nodes|Walk 1.004|Mu
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 16
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: MurgulShadowcaster Nodes|MurgulShadowcaster Nodes|MurgulShadowcaster
+        Nodes|Walk Swim 1.0
+      takeName: MurgulShadowcaster Nodes|MurgulShadowcaster Nodes|MurgulShadowcaster
+        Nodes|Walk Swim 1.0
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 24
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: MurgulShadowcaster Nodes|MurgulShadowcaster Nodes|MurgulShadowcaster
+        Nodes|Walk Swim 2.0
+      takeName: MurgulShadowcaster Nodes|MurgulShadowcaster Nodes|MurgulShadowcaster
+        Nodes|Walk Swim 2.0
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 48
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

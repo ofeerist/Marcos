@@ -1,0 +1,206 @@
+fileFormatVersion: 2
+guid: 4eacd7b6fea6b26d9a46a86be73275ec
+ModelImporter:
+  serializedVersion: 21100
+  internalIDToNameTable:
+  - first:
+      74: 86618071253832704
+    second: MurgulReaver Nodes|#UNANIMATED.003
+  - first:
+      74: 1281675447402710285
+    second: MurgulReaver Nodes|Attack 1.003
+  - first:
+      74: 5604493004364913507
+    second: MurgulReaver Nodes|Attack 2.003
+  - first:
+      74: -7750707038703929802
+    second: MurgulReaver Nodes|Attack Spell Swim 1.003
+  - first:
+      74: 4983159630089083772
+    second: MurgulReaver Nodes|Death 1.003
+  - first:
+      74: -211261918231259123
+    second: MurgulReaver Nodes|Death Swim 1.003
+  - first:
+      74: 6936145828827213380
+    second: MurgulReaver Nodes|Decay Bone.003
+  - first:
+      74: -3483788821701440389
+    second: MurgulReaver Nodes|Decay Flesh.003
+  - first:
+      74: 2082698425227976973
+    second: MurgulReaver Nodes|Decay Swim.003
+  - first:
+      74: 917383024639922787
+    second: MurgulReaver Nodes|Spell 1.003
+  - first:
+      74: 4485800689708547272
+    second: MurgulReaver Nodes|Stand 1.003
+  - first:
+      74: 9178406809013890104
+    second: MurgulReaver Nodes|Stand 2.003
+  - first:
+      74: -1660573067703867573
+    second: MurgulReaver Nodes|Stand 3.003
+  - first:
+      74: 4451138547942667931
+    second: MurgulReaver Nodes|Stand Swim 1.003
+  - first:
+      74: 4584648452524559333
+    second: MurgulReaver Nodes|Walk 1.003
+  - first:
+      74: 3572508273115269730
+    second: MurgulReaver Nodes|Walk Swim 1.003
+  - first:
+      74: 247453985409489114
+    second: MurgulReaver Nodes|Walk Swim 2.003
+  - first:
+      74: -2908509042440145653
+    second: MurgulReaver Nodes|MurgulReaver Nodes|MurgulReaver Nodes|#UNANIMATED.003|MurgulRea
+  - first:
+      74: 5434174994178628579
+    second: MurgulReaver Nodes|MurgulReaver Nodes|MurgulReaver Nodes|Attack 1.003|MurgulReaver
+  - first:
+      74: 1072713770028922236
+    second: MurgulReaver Nodes|MurgulReaver Nodes|MurgulReaver Nodes|Attack 2.003|MurgulReaver
+  - first:
+      74: 6096520972610894163
+    second: MurgulReaver Nodes|MurgulReaver Nodes|MurgulReaver Nodes|Attack Spell
+      Swim 1.003|M
+  - first:
+      74: 2247382595077379651
+    second: 'MurgulReaver Nodes|MurgulReaver Nodes|MurgulReaver Nodes|Death 1.003|MurgulReaver '
+  - first:
+      74: -7288389033820171594
+    second: MurgulReaver Nodes|MurgulReaver Nodes|MurgulReaver Nodes|Death Swim 1.003|MurgulRe
+  - first:
+      74: -1728353680389596533
+    second: MurgulReaver Nodes|MurgulReaver Nodes|MurgulReaver Nodes|Decay Bone.003|MurgulReav
+  - first:
+      74: 7170910207152158483
+    second: MurgulReaver Nodes|MurgulReaver Nodes|MurgulReaver Nodes|Decay Flesh.003|MurgulRea
+  - first:
+      74: -6046354103978325713
+    second: MurgulReaver Nodes|MurgulReaver Nodes|MurgulReaver Nodes|Decay Swim.003|MurgulReav
+  - first:
+      74: 5004152362959083170
+    second: 'MurgulReaver Nodes|MurgulReaver Nodes|MurgulReaver Nodes|Spell 1.003|MurgulReaver '
+  - first:
+      74: -749297382884118582
+    second: 'MurgulReaver Nodes|MurgulReaver Nodes|MurgulReaver Nodes|Stand 1.003|MurgulReaver '
+  - first:
+      74: -4923801510714339457
+    second: 'MurgulReaver Nodes|MurgulReaver Nodes|MurgulReaver Nodes|Stand 2.003|MurgulReaver '
+  - first:
+      74: 531834791299275084
+    second: 'MurgulReaver Nodes|MurgulReaver Nodes|MurgulReaver Nodes|Stand 3.003|MurgulReaver '
+  - first:
+      74: -4043129267373928833
+    second: MurgulReaver Nodes|MurgulReaver Nodes|MurgulReaver Nodes|Stand Swim 1.003|MurgulRe
+  - first:
+      74: 6738772471374271734
+    second: MurgulReaver Nodes|MurgulReaver Nodes|MurgulReaver Nodes|Walk 1.003|MurgulReaver
+      N
+  - first:
+      74: 2403061870314829031
+    second: MurgulReaver Nodes|MurgulReaver Nodes|MurgulReaver Nodes|Walk Swim 1.003|MurgulRea
+  - first:
+      74: -4186643833517252600
+    second: MurgulReaver Nodes|MurgulReaver Nodes|MurgulReaver Nodes|Walk Swim 2.003|MurgulRea
+  externalObjects: {}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

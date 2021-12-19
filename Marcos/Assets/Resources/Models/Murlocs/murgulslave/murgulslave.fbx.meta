@@ -1,0 +1,329 @@
+fileFormatVersion: 2
+guid: 79977fbb0556ebce2b7a11e469e8a85c
+ModelImporter:
+  serializedVersion: 21100
+  internalIDToNameTable:
+  - first:
+      74: -8616422465349281537
+    second: MurgulSlave Nodes|#UNANIMATED.005
+  - first:
+      74: 4920331160135246948
+    second: MurgulSlave Nodes|Attack 1.005
+  - first:
+      74: 848362759357134696
+    second: MurgulSlave Nodes|Attack 2.005
+  - first:
+      74: -5439853204745854194
+    second: MurgulSlave Nodes|Attack Gold 1
+  - first:
+      74: 6759130129250458864
+    second: MurgulSlave Nodes|Attack Lumber 1
+  - first:
+      74: -1439551328190851008
+    second: MurgulSlave Nodes|Attack Swim 1
+  - first:
+      74: 5118301526339895791
+    second: MurgulSlave Nodes|Death 1.005
+  - first:
+      74: -4481868619822549950
+    second: MurgulSlave Nodes|Death Swim 1.005
+  - first:
+      74: -6817500656064032693
+    second: MurgulSlave Nodes|Decay Bone.005
+  - first:
+      74: 2718577533384786591
+    second: MurgulSlave Nodes|Decay Flesh.005
+  - first:
+      74: 5476351147400540633
+    second: MurgulSlave Nodes|Decay Swim.005
+  - first:
+      74: 1921639885952023435
+    second: MurgulSlave Nodes|Spell 1.005
+  - first:
+      74: 1075179896069814750
+    second: MurgulSlave Nodes|Stand 1.005
+  - first:
+      74: 2519321860555814474
+    second: MurgulSlave Nodes|Stand 2.005
+  - first:
+      74: -8199231241111888890
+    second: MurgulSlave Nodes|Stand 3.005
+  - first:
+      74: 5942972491513416840
+    second: MurgulSlave Nodes|Stand Gold 1
+  - first:
+      74: -8681171029257061752
+    second: MurgulSlave Nodes|Stand Lumber 1
+  - first:
+      74: 84553278816106930
+    second: MurgulSlave Nodes|Stand Ready 1
+  - first:
+      74: 2888622047159205308
+    second: MurgulSlave Nodes|Stand Ready Gold 1
+  - first:
+      74: -3612574777831534967
+    second: MurgulSlave Nodes|Stand Ready Lumber 1
+  - first:
+      74: -3696213188477719065
+    second: MurgulSlave Nodes|Stand Ready Swim 1
+  - first:
+      74: -3507599322837679363
+    second: MurgulSlave Nodes|Stand Swim 1.005
+  - first:
+      74: -3133955801364020755
+    second: MurgulSlave Nodes|Stand Victory 1
+  - first:
+      74: -6718749383878364734
+    second: MurgulSlave Nodes|Stand Work 1
+  - first:
+      74: 6916514941698202115
+    second: MurgulSlave Nodes|Stand Work Gold 1
+  - first:
+      74: -8475654084525419134
+    second: MurgulSlave Nodes|Stand Work Lumber 1
+  - first:
+      74: -8962729244485552048
+    second: MurgulSlave Nodes|Stand Work Swim 1
+  - first:
+      74: -6241780233497542169
+    second: MurgulSlave Nodes|Walk 1.005
+  - first:
+      74: -90638434247538023
+    second: MurgulSlave Nodes|Walk Gold 1
+  - first:
+      74: 8878665180226780734
+    second: MurgulSlave Nodes|Walk Gold Swim 1
+  - first:
+      74: 6073047438928508257
+    second: MurgulSlave Nodes|Walk Lumber 1
+  - first:
+      74: 8914746919897404343
+    second: MurgulSlave Nodes|Walk Lumber Swim 1
+  - first:
+      74: -7358269662267635911
+    second: MurgulSlave Nodes|Walk Swim 1.005
+  - first:
+      74: 1687738468158933097
+    second: MurgulSlave Nodes|Walk Swim 2.005
+  - first:
+      74: -1590266234933418395
+    second: MurgulSlave Nodes|MurgulSlave Nodes|MurgulSlave Nodes|#UNANIMATED.005|MurgulSlave
+  - first:
+      74: 133741626805889884
+    second: MurgulSlave Nodes|MurgulSlave Nodes|MurgulSlave Nodes|Attack 1.005|MurgulSlave
+      No
+  - first:
+      74: -9095035013809440855
+    second: MurgulSlave Nodes|MurgulSlave Nodes|MurgulSlave Nodes|Attack 2.005|MurgulSlave
+      No
+  - first:
+      74: 8774324955488009840
+    second: MurgulSlave Nodes|MurgulSlave Nodes|MurgulSlave Nodes|Attack Gold 1|MurgulSlave
+      N
+  - first:
+      74: -1284024982180978248
+    second: MurgulSlave Nodes|MurgulSlave Nodes|MurgulSlave Nodes|Attack Lumber 1|MurgulSlave
+  - first:
+      74: -5914465806338450313
+    second: MurgulSlave Nodes|MurgulSlave Nodes|MurgulSlave Nodes|Attack Swim 1|MurgulSlave
+      N
+  - first:
+      74: -6137291117769747093
+    second: MurgulSlave Nodes|MurgulSlave Nodes|MurgulSlave Nodes|Death 1.005|MurgulSlave
+      Nod
+  - first:
+      74: 8093634299204098974
+    second: MurgulSlave Nodes|MurgulSlave Nodes|MurgulSlave Nodes|Death Swim 1.005|MurgulSlav
+  - first:
+      74: -8659341764068111730
+    second: 'MurgulSlave Nodes|MurgulSlave Nodes|MurgulSlave Nodes|Decay Bone.005|MurgulSlave '
+  - first:
+      74: -2510840647616473387
+    second: MurgulSlave Nodes|MurgulSlave Nodes|MurgulSlave Nodes|Decay Flesh.005|MurgulSlave
+  - first:
+      74: -4650547105045639941
+    second: 'MurgulSlave Nodes|MurgulSlave Nodes|MurgulSlave Nodes|Decay Swim.005|MurgulSlave '
+  - first:
+      74: -991235262181079878
+    second: MurgulSlave Nodes|MurgulSlave Nodes|MurgulSlave Nodes|Spell 1.005|MurgulSlave
+      Nod
+  - first:
+      74: -7222595895802767392
+    second: MurgulSlave Nodes|MurgulSlave Nodes|MurgulSlave Nodes|Stand 1.005|MurgulSlave
+      Nod
+  - first:
+      74: 145689353574042253
+    second: MurgulSlave Nodes|MurgulSlave Nodes|MurgulSlave Nodes|Stand 2.005|MurgulSlave
+      Nod
+  - first:
+      74: 3926730803971367438
+    second: MurgulSlave Nodes|MurgulSlave Nodes|MurgulSlave Nodes|Stand 3.005|MurgulSlave
+      Nod
+  - first:
+      74: -1542044976939693895
+    second: MurgulSlave Nodes|MurgulSlave Nodes|MurgulSlave Nodes|Stand Gold 1|MurgulSlave
+      No
+  - first:
+      74: 819408428397635548
+    second: 'MurgulSlave Nodes|MurgulSlave Nodes|MurgulSlave Nodes|Stand Lumber 1|MurgulSlave '
+  - first:
+      74: -5244120623922424502
+    second: MurgulSlave Nodes|MurgulSlave Nodes|MurgulSlave Nodes|Stand Ready 1|MurgulSlave
+      N
+  - first:
+      74: 1253902349141731858
+    second: MurgulSlave Nodes|MurgulSlave Nodes|MurgulSlave Nodes|Stand Ready Gold
+      1|MurgulSl
+  - first:
+      74: -5300461742441015379
+    second: MurgulSlave Nodes|MurgulSlave Nodes|MurgulSlave Nodes|Stand Ready Lumber
+      1|Murgul
+  - first:
+      74: -6894253846386893590
+    second: MurgulSlave Nodes|MurgulSlave Nodes|MurgulSlave Nodes|Stand Ready Swim
+      1|MurgulSl
+  - first:
+      74: 3699955144864543578
+    second: MurgulSlave Nodes|MurgulSlave Nodes|MurgulSlave Nodes|Stand Swim 1.005|MurgulSlav
+  - first:
+      74: -3770693168636215970
+    second: MurgulSlave Nodes|MurgulSlave Nodes|MurgulSlave Nodes|Stand Victory 1|MurgulSlave
+  - first:
+      74: 918347913047516912
+    second: MurgulSlave Nodes|MurgulSlave Nodes|MurgulSlave Nodes|Stand Work 1|MurgulSlave
+      No
+  - first:
+      74: 4946228929399936217
+    second: MurgulSlave Nodes|MurgulSlave Nodes|MurgulSlave Nodes|Stand Work Gold
+      1|MurgulSla
+  - first:
+      74: 397376823845130119
+    second: MurgulSlave Nodes|MurgulSlave Nodes|MurgulSlave Nodes|Stand Work Lumber
+      1|MurgulS
+  - first:
+      74: -6672697079920587338
+    second: MurgulSlave Nodes|MurgulSlave Nodes|MurgulSlave Nodes|Stand Work Swim
+      1|MurgulSla
+  - first:
+      74: 526584625303570409
+    second: MurgulSlave Nodes|MurgulSlave Nodes|MurgulSlave Nodes|Walk 1.005|MurgulSlave
+      Node
+  - first:
+      74: 2956941267307942824
+    second: MurgulSlave Nodes|MurgulSlave Nodes|MurgulSlave Nodes|Walk Gold 1|MurgulSlave
+      Nod
+  - first:
+      74: 514225597178934926
+    second: MurgulSlave Nodes|MurgulSlave Nodes|MurgulSlave Nodes|Walk Gold Swim
+      1|MurgulSlav
+  - first:
+      74: 7465394180542296905
+    second: MurgulSlave Nodes|MurgulSlave Nodes|MurgulSlave Nodes|Walk Lumber 1|MurgulSlave
+      N
+  - first:
+      74: 5016374247018533922
+    second: MurgulSlave Nodes|MurgulSlave Nodes|MurgulSlave Nodes|Walk Lumber Swim
+      1|MurgulSl
+  - first:
+      74: -4763194231887015204
+    second: MurgulSlave Nodes|MurgulSlave Nodes|MurgulSlave Nodes|Walk Swim 1.005|MurgulSlave
+  - first:
+      74: 2138578522000297955
+    second: MurgulSlave Nodes|MurgulSlave Nodes|MurgulSlave Nodes|Walk Swim 2.005|MurgulSlave
+  externalObjects: {}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

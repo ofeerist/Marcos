@@ -1,0 +1,1195 @@
+fileFormatVersion: 2
+guid: 3322db98e55fe0535a281e42f6258a3b
+ModelImporter:
+  serializedVersion: 21100
+  internalIDToNameTable:
+  - first:
+      74: -3123408106249477277
+    second: MurlocMutant Nodes|#UNANIMATED.011
+  - first:
+      74: 966340684325197540
+    second: MurlocMutant Nodes|Attack 1.011
+  - first:
+      74: 7741982269714995874
+    second: MurlocMutant Nodes|Attack Spell 1.003
+  - first:
+      74: -5631593580697139123
+    second: MurlocMutant Nodes|Attack Spell Swim 1.010
+  - first:
+      74: -5315382524708196054
+    second: MurlocMutant Nodes|Death 1.011
+  - first:
+      74: -4428597841165825043
+    second: MurlocMutant Nodes|Death Swim 1.011
+  - first:
+      74: -9027227153922855903
+    second: MurlocMutant Nodes|Decay Bone.011
+  - first:
+      74: -9121699416179082803
+    second: MurlocMutant Nodes|Decay Flesh.011
+  - first:
+      74: 127458570653710508
+    second: MurlocMutant Nodes|Decay Swim.011
+  - first:
+      74: -6923520686353456340
+    second: MurlocMutant Nodes|Spell 1.010
+  - first:
+      74: 210077938050331403
+    second: MurlocMutant Nodes|Stand 1.011
+  - first:
+      74: 3670716570926690593
+    second: MurlocMutant Nodes|Stand 2.011
+  - first:
+      74: -5106202416489475906
+    second: MurlocMutant Nodes|Stand 3.011
+  - first:
+      74: 4649485102284489903
+    second: MurlocMutant Nodes|Stand Swim 1.011
+  - first:
+      74: 5922412160178493134
+    second: MurlocMutant Nodes|Walk 1.011
+  - first:
+      74: -8152026347692429158
+    second: MurlocMutant Nodes|Walk Swim 1.011
+  - first:
+      74: -2094569819070628848
+    second: MurlocMutant Nodes|MurlocMutant Nodes|MurlocMutant Nodes|#UNANIMATED.011|Murlo
+  - first:
+      74: -4030441864359093214
+    second: MurlocMutant Nodes|MurlocMutant Nodes|MurlocMutant Nodes|#UNANIMATED.011|MurlocMut
+  - first:
+      74: -3959299506630077411
+    second: MurlocMutant Nodes|MurlocMutant Nodes|MurlocMutant Nodes|Attack 1.011|MurlocMu
+  - first:
+      74: -2384093452183884444
+    second: MurlocMutant Nodes|MurlocMutant Nodes|MurlocMutant Nodes|Attack 1.011|MurlocMutant
+  - first:
+      74: 513332427668694202
+    second: MurlocMutant Nodes|MurlocMutant Nodes|MurlocMutant Nodes|Attack Spell
+      1.003|Mu
+  - first:
+      74: -6416232857438333822
+    second: MurlocMutant Nodes|MurlocMutant Nodes|MurlocMutant Nodes|Attack Spell
+      1.003|Murloc
+  - first:
+      74: -371043893083157806
+    second: MurlocMutant Nodes|MurlocMutant Nodes|MurlocMutant Nodes|Attack Spell
+      Swim 1.0
+  - first:
+      74: 3670998691656948150
+    second: MurlocMutant Nodes|MurlocMutant Nodes|MurlocMutant Nodes|Attack Spell
+      Swim 1.010|M
+  - first:
+      74: -7950312343923684854
+    second: MurlocMutant Nodes|MurlocMutant Nodes|MurlocMutant Nodes|Death 1.011|MurlocMut
+  - first:
+      74: 4288724370457508847
+    second: 'MurlocMutant Nodes|MurlocMutant Nodes|MurlocMutant Nodes|Death 1.011|MurlocMutant '
+  - first:
+      74: 1829576420698159066
+    second: MurlocMutant Nodes|MurlocMutant Nodes|MurlocMutant Nodes|Death Swim 1.011|Murl
+  - first:
+      74: 8723979036224829593
+    second: MurlocMutant Nodes|MurlocMutant Nodes|MurlocMutant Nodes|Death Swim 1.011|MurlocMu
+  - first:
+      74: -3447188659328894780
+    second: MurlocMutant Nodes|MurlocMutant Nodes|MurlocMutant Nodes|Decay Bone.011|Murloc
+  - first:
+      74: 4209313243709456456
+    second: MurlocMutant Nodes|MurlocMutant Nodes|MurlocMutant Nodes|Decay Bone.011|MurlocMuta
+  - first:
+      74: 3325788702088857990
+    second: MurlocMutant Nodes|MurlocMutant Nodes|MurlocMutant Nodes|Decay Flesh.011|Murlo
+  - first:
+      74: -5855076676846424999
+    second: MurlocMutant Nodes|MurlocMutant Nodes|MurlocMutant Nodes|Decay Flesh.011|MurlocMut
+  - first:
+      74: 1120427833031935036
+    second: MurlocMutant Nodes|MurlocMutant Nodes|MurlocMutant Nodes|Decay Swim.011|Murloc
+  - first:
+      74: 4825156302799887044
+    second: MurlocMutant Nodes|MurlocMutant Nodes|MurlocMutant Nodes|Decay Swim.011|MurlocMuta
+  - first:
+      74: 3937351677148632319
+    second: MurlocMutant Nodes|MurlocMutant Nodes|MurlocMutant Nodes|Spell 1.010|MurlocMut
+  - first:
+      74: 8978613596273220934
+    second: 'MurlocMutant Nodes|MurlocMutant Nodes|MurlocMutant Nodes|Spell 1.010|MurlocMutant '
+  - first:
+      74: -4954480422959755211
+    second: MurlocMutant Nodes|MurlocMutant Nodes|MurlocMutant Nodes|Stand 1.011|MurlocMut
+  - first:
+      74: 7678259256562476580
+    second: 'MurlocMutant Nodes|MurlocMutant Nodes|MurlocMutant Nodes|Stand 1.011|MurlocMutant '
+  - first:
+      74: 3378700244775984596
+    second: MurlocMutant Nodes|MurlocMutant Nodes|MurlocMutant Nodes|Stand 2.011|MurlocMut
+  - first:
+      74: 1073240293706893029
+    second: 'MurlocMutant Nodes|MurlocMutant Nodes|MurlocMutant Nodes|Stand 2.011|MurlocMutant '
+  - first:
+      74: -1922925149040324442
+    second: MurlocMutant Nodes|MurlocMutant Nodes|MurlocMutant Nodes|Stand 3.011|MurlocMut
+  - first:
+      74: 7975787702192428109
+    second: 'MurlocMutant Nodes|MurlocMutant Nodes|MurlocMutant Nodes|Stand 3.011|MurlocMutant '
+  - first:
+      74: -8493618575695273732
+    second: MurlocMutant Nodes|MurlocMutant Nodes|MurlocMutant Nodes|Stand Swim 1.011|Murl
+  - first:
+      74: -8470572723361727962
+    second: MurlocMutant Nodes|MurlocMutant Nodes|MurlocMutant Nodes|Stand Swim 1.011|MurlocMu
+  - first:
+      74: -8369841908130998388
+    second: MurlocMutant Nodes|MurlocMutant Nodes|MurlocMutant Nodes|Walk 1.011|MurlocMuta
+  - first:
+      74: -5793560645824803263
+    second: MurlocMutant Nodes|MurlocMutant Nodes|MurlocMutant Nodes|Walk 1.011|MurlocMutant
+      N
+  - first:
+      74: 5401986760376166153
+    second: MurlocMutant Nodes|MurlocMutant Nodes|MurlocMutant Nodes|Walk Swim 1.011|Murlo
+  - first:
+      74: 8609500822054870858
+    second: MurlocMutant Nodes|MurlocMutant Nodes|MurlocMutant Nodes|Walk Swim 1.011|MurlocMut
+  externalObjects: {}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: MurlocMutant Nodes|MurlocMutant Nodes|MurlocMutant Nodes|#UNANIMATED.011|Murlo
+      takeName: MurlocMutant Nodes|MurlocMutant Nodes|MurlocMutant Nodes|#UNANIMATED.011|Murlo
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: MurlocMutant Nodes|MurlocMutant Nodes|MurlocMutant Nodes|#UNANIMATED.011|MurlocMut
+      takeName: MurlocMutant Nodes|MurlocMutant Nodes|MurlocMutant Nodes|#UNANIMATED.011|MurlocMut
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: MurlocMutant Nodes|MurlocMutant Nodes|MurlocMutant Nodes|Attack 1.011|MurlocMu
+      takeName: MurlocMutant Nodes|MurlocMutant Nodes|MurlocMutant Nodes|Attack 1.011|MurlocMu
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 35
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: MurlocMutant Nodes|MurlocMutant Nodes|MurlocMutant Nodes|Attack 1.011|MurlocMutant
+      takeName: MurlocMutant Nodes|MurlocMutant Nodes|MurlocMutant Nodes|Attack 1.011|MurlocMutant
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 35
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: MurlocMutant Nodes|MurlocMutant Nodes|MurlocMutant Nodes|Attack Spell
+        1.003|Mu
+      takeName: MurlocMutant Nodes|MurlocMutant Nodes|MurlocMutant Nodes|Attack Spell
+        1.003|Mu
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 35
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: MurlocMutant Nodes|MurlocMutant Nodes|MurlocMutant Nodes|Attack Spell
+        1.003|Murloc
+      takeName: MurlocMutant Nodes|MurlocMutant Nodes|MurlocMutant Nodes|Attack Spell
+        1.003|Murloc
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 35
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: MurlocMutant Nodes|MurlocMutant Nodes|MurlocMutant Nodes|Attack Spell
+        Swim 1.0
+      takeName: MurlocMutant Nodes|MurlocMutant Nodes|MurlocMutant Nodes|Attack Spell
+        Swim 1.0
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 35
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: MurlocMutant Nodes|MurlocMutant Nodes|MurlocMutant Nodes|Attack Spell
+        Swim 1.010|M
+      takeName: MurlocMutant Nodes|MurlocMutant Nodes|MurlocMutant Nodes|Attack Spell
+        Swim 1.010|M
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 35
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: MurlocMutant Nodes|MurlocMutant Nodes|MurlocMutant Nodes|Death 1.011|MurlocMut
+      takeName: MurlocMutant Nodes|MurlocMutant Nodes|MurlocMutant Nodes|Death 1.011|MurlocMut
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 39
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: 'MurlocMutant Nodes|MurlocMutant Nodes|MurlocMutant Nodes|Death 1.011|MurlocMutant '
+      takeName: 'MurlocMutant Nodes|MurlocMutant Nodes|MurlocMutant Nodes|Death 1.011|MurlocMutant '
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 39
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: MurlocMutant Nodes|MurlocMutant Nodes|MurlocMutant Nodes|Death Swim 1.011|Murl
+      takeName: MurlocMutant Nodes|MurlocMutant Nodes|MurlocMutant Nodes|Death Swim
+        1.011|Murl
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 39
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: MurlocMutant Nodes|MurlocMutant Nodes|MurlocMutant Nodes|Death Swim 1.011|MurlocMu
+      takeName: MurlocMutant Nodes|MurlocMutant Nodes|MurlocMutant Nodes|Death Swim
+        1.011|MurlocMu
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 39
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: MurlocMutant Nodes|MurlocMutant Nodes|MurlocMutant Nodes|Decay Bone.011|Murloc
+      takeName: MurlocMutant Nodes|MurlocMutant Nodes|MurlocMutant Nodes|Decay Bone.011|Murloc
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 1440
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: MurlocMutant Nodes|MurlocMutant Nodes|MurlocMutant Nodes|Decay Bone.011|MurlocMuta
+      takeName: MurlocMutant Nodes|MurlocMutant Nodes|MurlocMutant Nodes|Decay Bone.011|MurlocMuta
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 1440
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: MurlocMutant Nodes|MurlocMutant Nodes|MurlocMutant Nodes|Decay Flesh.011|Murlo
+      takeName: MurlocMutant Nodes|MurlocMutant Nodes|MurlocMutant Nodes|Decay Flesh.011|Murlo
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 1440
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: MurlocMutant Nodes|MurlocMutant Nodes|MurlocMutant Nodes|Decay Flesh.011|MurlocMut
+      takeName: MurlocMutant Nodes|MurlocMutant Nodes|MurlocMutant Nodes|Decay Flesh.011|MurlocMut
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 1440
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: MurlocMutant Nodes|MurlocMutant Nodes|MurlocMutant Nodes|Decay Swim.011|Murloc
+      takeName: MurlocMutant Nodes|MurlocMutant Nodes|MurlocMutant Nodes|Decay Swim.011|Murloc
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 1440
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: MurlocMutant Nodes|MurlocMutant Nodes|MurlocMutant Nodes|Decay Swim.011|MurlocMuta
+      takeName: MurlocMutant Nodes|MurlocMutant Nodes|MurlocMutant Nodes|Decay Swim.011|MurlocMuta
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 1440
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: MurlocMutant Nodes|MurlocMutant Nodes|MurlocMutant Nodes|Spell 1.010|MurlocMut
+      takeName: MurlocMutant Nodes|MurlocMutant Nodes|MurlocMutant Nodes|Spell 1.010|MurlocMut
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 36
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: 'MurlocMutant Nodes|MurlocMutant Nodes|MurlocMutant Nodes|Spell 1.010|MurlocMutant '
+      takeName: 'MurlocMutant Nodes|MurlocMutant Nodes|MurlocMutant Nodes|Spell 1.010|MurlocMutant '
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 36
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: MurlocMutant Nodes|MurlocMutant Nodes|MurlocMutant Nodes|Stand 1.011|MurlocMut
+      takeName: MurlocMutant Nodes|MurlocMutant Nodes|MurlocMutant Nodes|Stand 1.011|MurlocMut
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 27
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: 'MurlocMutant Nodes|MurlocMutant Nodes|MurlocMutant Nodes|Stand 1.011|MurlocMutant '
+      takeName: 'MurlocMutant Nodes|MurlocMutant Nodes|MurlocMutant Nodes|Stand 1.011|MurlocMutant '
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 27
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: MurlocMutant Nodes|MurlocMutant Nodes|MurlocMutant Nodes|Stand 2.011|MurlocMut
+      takeName: MurlocMutant Nodes|MurlocMutant Nodes|MurlocMutant Nodes|Stand 2.011|MurlocMut
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 27
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: 'MurlocMutant Nodes|MurlocMutant Nodes|MurlocMutant Nodes|Stand 2.011|MurlocMutant '
+      takeName: 'MurlocMutant Nodes|MurlocMutant Nodes|MurlocMutant Nodes|Stand 2.011|MurlocMutant '
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 27
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: MurlocMutant Nodes|MurlocMutant Nodes|MurlocMutant Nodes|Stand 3.011|MurlocMut
+      takeName: MurlocMutant Nodes|MurlocMutant Nodes|MurlocMutant Nodes|Stand 3.011|MurlocMut
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 27
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: 'MurlocMutant Nodes|MurlocMutant Nodes|MurlocMutant Nodes|Stand 3.011|MurlocMutant '
+      takeName: 'MurlocMutant Nodes|MurlocMutant Nodes|MurlocMutant Nodes|Stand 3.011|MurlocMutant '
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 27
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: MurlocMutant Nodes|MurlocMutant Nodes|MurlocMutant Nodes|Stand Swim 1.011|Murl
+      takeName: MurlocMutant Nodes|MurlocMutant Nodes|MurlocMutant Nodes|Stand Swim
+        1.011|Murl
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 34
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: MurlocMutant Nodes|MurlocMutant Nodes|MurlocMutant Nodes|Stand Swim 1.011|MurlocMu
+      takeName: MurlocMutant Nodes|MurlocMutant Nodes|MurlocMutant Nodes|Stand Swim
+        1.011|MurlocMu
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 34
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: MurlocMutant Nodes|MurlocMutant Nodes|MurlocMutant Nodes|Walk 1.011|MurlocMuta
+      takeName: MurlocMutant Nodes|MurlocMutant Nodes|MurlocMutant Nodes|Walk 1.011|MurlocMuta
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 15
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: MurlocMutant Nodes|MurlocMutant Nodes|MurlocMutant Nodes|Walk 1.011|MurlocMutant
+        N
+      takeName: MurlocMutant Nodes|MurlocMutant Nodes|MurlocMutant Nodes|Walk 1.011|MurlocMutant
+        N
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 15
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: MurlocMutant Nodes|MurlocMutant Nodes|MurlocMutant Nodes|Walk Swim 1.011|Murlo
+      takeName: MurlocMutant Nodes|MurlocMutant Nodes|MurlocMutant Nodes|Walk Swim
+        1.011|Murlo
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 33
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: MurlocMutant Nodes|MurlocMutant Nodes|MurlocMutant Nodes|Walk Swim 1.011|MurlocMut
+      takeName: MurlocMutant Nodes|MurlocMutant Nodes|MurlocMutant Nodes|Walk Swim
+        1.011|MurlocMut
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 33
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,110 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Cursor
+  m_Shader: {fileID: 4800000, guid: 2a27ee3c6d4fb8e65a6842090ddfe59e, type: 3}
+  m_ShaderKeywords: _ProjectionAngleDiscardEnable
+  m_LightmapFlags: 2
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 1
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _AlphaMask:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DecalTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DiffuseAlpha:
+        m_Texture: {fileID: 2800000, guid: 20cd3f2d363c61b90a5bb662cabc04f4, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 2800000, guid: 2f81be219565f17548aded406e4ed207, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MetallicSmoothnessOcclusion:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _NoiseMask:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _NoiseTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Normal:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_Lightmaps:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_LightmapsInd:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_ShadowMasks:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats:
+    - _Ambient: 1
+    - _ColourMultiplier: 1
+    - _Cull: 1
+    - _Cutoff: 0.5
+    - _DstBlend: 10
+    - _EmissiveDiffuseMultiplier: 4
+    - _FlipU: 0
+    - _FlipV: 0
+    - _FracUVEnable: 0
+    - _MaxAngleFadeRadians: 1.570796
+    - _Metallic: 1
+    - _MetallicMultiplier: 1
+    - _MinAngleFadeRadians: 1.396263
+    - _MulAlphaToRGB: 0
+    - _NoiseAmount: 0.25
+    - _NormalMultiplier: 1
+    - _OcclusionMultiplier: 1
+    - _OffsetViewZ: 0.001
+    - _Opacity: 1
+    - _ProjectionAngleDiscardEnable: 1
+    - _ProjectionAngleDiscardThreshold: 0.4
+    - _Smoothness: 1
+    - _SmoothnessMultiplier: 1
+    - _SrcBlend: 5
+    - _StencilComp: 0
+    - _StencilRef: 0
+    - _SupportOrthographicCamera: 0
+    - _USpeedMain: -0.01
+    - _USpeedNoise: 0.1
+    - _UnityFogEnable: 0
+    - _VSpeedMain: -0.125
+    - _VSpeedNoise: 0.05
+    - _ZFadeStart: 0.1
+    - _ZTest: 0
+    m_Colors:
+    - _AlphaRemap: {r: 1, g: 0, b: 0, a: 0}
+    - _Bounds: {r: 0, g: 0, b: 1, a: 1}
+    - _Color: {r: 0.69878787, g: 0.79861474, b: 2.828427, a: 1}
+    - _ColourForAlpha: {r: 1, g: 0.9764151, b: 0.9764151, a: 0}
+    - _Emmision: {r: 0.06581525, g: 0.10463549, b: 0.16037738, a: 0.8335108}
+    - _FlatColour: {r: 0.28368637, g: 0.59734327, b: 0.7075472, a: 0}
+    - _TintColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
+  m_BuildTextureStacks: []

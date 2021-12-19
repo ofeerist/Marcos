@@ -1,0 +1,332 @@
+fileFormatVersion: 2
+guid: 3aa214a524779685a856619fb63482ca
+ModelImporter:
+  serializedVersion: 21100
+  internalIDToNameTable:
+  - first:
+      74: 7652698425201292519
+    second: MurgulTidewarrior Nodes|#UNANIMATED.007
+  - first:
+      74: 108790081263299152
+    second: MurgulTidewarrior Nodes|Attack 1.001
+  - first:
+      74: -5380965296748614569
+    second: MurgulTidewarrior Nodes|Attack 1.007
+  - first:
+      74: -4301296901191008597
+    second: MurgulTidewarrior Nodes|Attack 2.001
+  - first:
+      74: -3622513309604407419
+    second: MurgulTidewarrior Nodes|Attack 2.007
+  - first:
+      74: -447521296265100185
+    second: MurgulTidewarrior Nodes|Attack Spell Swim 1.001
+  - first:
+      74: 1295651068622425778
+    second: MurgulTidewarrior Nodes|Attack Spell Swim 1.006
+  - first:
+      74: 9153785982655145038
+    second: MurgulTidewarrior Nodes|Death 1.001
+  - first:
+      74: -7386439970383039915
+    second: MurgulTidewarrior Nodes|Death 1.007
+  - first:
+      74: -8018190184399749289
+    second: MurgulTidewarrior Nodes|Death Swim 1.001
+  - first:
+      74: 4156202821360903658
+    second: MurgulTidewarrior Nodes|Death Swim 1.007
+  - first:
+      74: 2270002973784152552
+    second: MurgulTidewarrior Nodes|Decay Bone.001
+  - first:
+      74: 7573566108991257815
+    second: MurgulTidewarrior Nodes|Decay Bone.007
+  - first:
+      74: 6944623147348235544
+    second: MurgulTidewarrior Nodes|Decay Flesh.001
+  - first:
+      74: -4300281013865298653
+    second: MurgulTidewarrior Nodes|Decay Flesh.007
+  - first:
+      74: 5312356899349759258
+    second: MurgulTidewarrior Nodes|Decay Swim.001
+  - first:
+      74: 3038677531946318850
+    second: MurgulTidewarrior Nodes|Decay Swim.007
+  - first:
+      74: -1474429600326123989
+    second: MurgulTidewarrior Nodes|Spell 1.001
+  - first:
+      74: 4332462979865447788
+    second: MurgulTidewarrior Nodes|Spell 1.007
+  - first:
+      74: -8008188306166849292
+    second: MurgulTidewarrior Nodes|Stand 1.001
+  - first:
+      74: 4823757076999786969
+    second: MurgulTidewarrior Nodes|Stand 1.007
+  - first:
+      74: 9159084515130983274
+    second: MurgulTidewarrior Nodes|Stand 2.001
+  - first:
+      74: -1639650534907518028
+    second: MurgulTidewarrior Nodes|Stand 2.007
+  - first:
+      74: -5460758233924654892
+    second: MurgulTidewarrior Nodes|Stand 3.001
+  - first:
+      74: 6866345207857292230
+    second: MurgulTidewarrior Nodes|Stand 3.007
+  - first:
+      74: 1116738163314209348
+    second: MurgulTidewarrior Nodes|Stand Swim 1.001
+  - first:
+      74: 4254018817014670579
+    second: MurgulTidewarrior Nodes|Stand Swim 1.007
+  - first:
+      74: 7645526133307068344
+    second: MurgulTidewarrior Nodes|Walk 1.001
+  - first:
+      74: 2183037719465947619
+    second: MurgulTidewarrior Nodes|Walk 1.007
+  - first:
+      74: -8018282580491877741
+    second: MurgulTidewarrior Nodes|Walk Swim 1.001
+  - first:
+      74: 2243385066430168091
+    second: MurgulTidewarrior Nodes|Walk Swim 1.007
+  - first:
+      74: 5198278433276865619
+    second: MurgulTidewarrior Nodes|Walk Swim 2.001
+  - first:
+      74: 8817030330768772826
+    second: MurgulTidewarrior Nodes|Walk Swim 2.007
+  - first:
+      74: 6865045453917907494
+    second: MurgulTidewarrior Nodes|MurgulTidewarrior Nodes|MurgulTidewarrior Nodes|#UNANIMATED.007
+  - first:
+      74: 2184322957903172037
+    second: MurgulTidewarrior Nodes|MurgulTidewarrior Nodes|MurgulTidewarrior Nodes|Attack
+      1.001|Mu
+  - first:
+      74: 5335882515159676054
+    second: MurgulTidewarrior Nodes|MurgulTidewarrior Nodes|MurgulTidewarrior Nodes|Attack
+      1.007|Mu
+  - first:
+      74: 8651511358741055101
+    second: MurgulTidewarrior Nodes|MurgulTidewarrior Nodes|MurgulTidewarrior Nodes|Attack
+      2.001|Mu
+  - first:
+      74: 1102564038481356077
+    second: MurgulTidewarrior Nodes|MurgulTidewarrior Nodes|MurgulTidewarrior Nodes|Attack
+      2.007|Mu
+  - first:
+      74: 9007428497150473640
+    second: MurgulTidewarrior Nodes|MurgulTidewarrior Nodes|MurgulTidewarrior Nodes|Attack
+      Spel
+  - first:
+      74: 894024111854801954
+    second: MurgulTidewarrior Nodes|MurgulTidewarrior Nodes|MurgulTidewarrior Nodes|Attack
+      Spell Sw
+  - first:
+      74: 6811508983465048283
+    second: MurgulTidewarrior Nodes|MurgulTidewarrior Nodes|MurgulTidewarrior Nodes|Death
+      1.001|Mur
+  - first:
+      74: -7794314534008632250
+    second: MurgulTidewarrior Nodes|MurgulTidewarrior Nodes|MurgulTidewarrior Nodes|Death
+      1.007|Mur
+  - first:
+      74: 2167394722922359108
+    second: 'MurgulTidewarrior Nodes|MurgulTidewarrior Nodes|MurgulTidewarrior Nodes|Death
+      Swim '
+  - first:
+      74: 7464265956744368015
+    second: MurgulTidewarrior Nodes|MurgulTidewarrior Nodes|MurgulTidewarrior Nodes|Death
+      Swim 1.00
+  - first:
+      74: 6912825671850205934
+    second: MurgulTidewarrior Nodes|MurgulTidewarrior Nodes|MurgulTidewarrior Nodes|Decay
+      Bone.001|
+  - first:
+      74: -1763047797866222462
+    second: MurgulTidewarrior Nodes|MurgulTidewarrior Nodes|MurgulTidewarrior Nodes|Decay
+      Bone.007|
+  - first:
+      74: -5504025883152057347
+    second: MurgulTidewarrior Nodes|MurgulTidewarrior Nodes|MurgulTidewarrior Nodes|Decay
+      Flesh.001
+  - first:
+      74: 1146826914349934286
+    second: MurgulTidewarrior Nodes|MurgulTidewarrior Nodes|MurgulTidewarrior Nodes|Decay
+      Flesh.007
+  - first:
+      74: 3179007887914881353
+    second: MurgulTidewarrior Nodes|MurgulTidewarrior Nodes|MurgulTidewarrior Nodes|Decay
+      Swim.001|
+  - first:
+      74: -2584312166874266301
+    second: MurgulTidewarrior Nodes|MurgulTidewarrior Nodes|MurgulTidewarrior Nodes|Decay
+      Swim.007|
+  - first:
+      74: 3826019288252779107
+    second: MurgulTidewarrior Nodes|MurgulTidewarrior Nodes|MurgulTidewarrior Nodes|Spell
+      1.001|Mur
+  - first:
+      74: 8922931932050241931
+    second: MurgulTidewarrior Nodes|MurgulTidewarrior Nodes|MurgulTidewarrior Nodes|Spell
+      1.007|Mur
+  - first:
+      74: 2583975669977581453
+    second: MurgulTidewarrior Nodes|MurgulTidewarrior Nodes|MurgulTidewarrior Nodes|Stand
+      1.001|Mur
+  - first:
+      74: -2409695599349690447
+    second: MurgulTidewarrior Nodes|MurgulTidewarrior Nodes|MurgulTidewarrior Nodes|Stand
+      1.007|Mur
+  - first:
+      74: 3974946297483619392
+    second: MurgulTidewarrior Nodes|MurgulTidewarrior Nodes|MurgulTidewarrior Nodes|Stand
+      2.001|Mur
+  - first:
+      74: -6753288988682676078
+    second: MurgulTidewarrior Nodes|MurgulTidewarrior Nodes|MurgulTidewarrior Nodes|Stand
+      2.007|Mur
+  - first:
+      74: 799216487397781827
+    second: MurgulTidewarrior Nodes|MurgulTidewarrior Nodes|MurgulTidewarrior Nodes|Stand
+      3.001|Mur
+  - first:
+      74: -4354894983411117227
+    second: MurgulTidewarrior Nodes|MurgulTidewarrior Nodes|MurgulTidewarrior Nodes|Stand
+      3.007|Mur
+  - first:
+      74: 2302906238306122074
+    second: 'MurgulTidewarrior Nodes|MurgulTidewarrior Nodes|MurgulTidewarrior Nodes|Stand
+      Swim '
+  - first:
+      74: -362447100770838996
+    second: MurgulTidewarrior Nodes|MurgulTidewarrior Nodes|MurgulTidewarrior Nodes|Stand
+      Swim 1.00
+  - first:
+      74: -6866055443151188528
+    second: MurgulTidewarrior Nodes|MurgulTidewarrior Nodes|MurgulTidewarrior Nodes|Walk
+      1.001|Murg
+  - first:
+      74: 4633361540960714249
+    second: MurgulTidewarrior Nodes|MurgulTidewarrior Nodes|MurgulTidewarrior Nodes|Walk
+      1.007|Murg
+  - first:
+      74: 2803636110554168770
+    second: MurgulTidewarrior Nodes|MurgulTidewarrior Nodes|MurgulTidewarrior Nodes|Walk
+      Swim 1.001
+  - first:
+      74: -9123980930451886366
+    second: MurgulTidewarrior Nodes|MurgulTidewarrior Nodes|MurgulTidewarrior Nodes|Walk
+      Swim 1.007
+  - first:
+      74: -7951776380740910289
+    second: MurgulTidewarrior Nodes|MurgulTidewarrior Nodes|MurgulTidewarrior Nodes|Walk
+      Swim 2.001
+  - first:
+      74: 5132274620344166334
+    second: MurgulTidewarrior Nodes|MurgulTidewarrior Nodes|MurgulTidewarrior Nodes|Walk
+      Swim 2.007
+  externalObjects: {}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,220 @@
+fileFormatVersion: 2
+guid: 8e059e4f25be2f92f961564f9ca45d93
+ModelImporter:
+  serializedVersion: 21100
+  internalIDToNameTable:
+  - first:
+      74: -2564222850982270138
+    second: MurlocFleshEater Nodes|#UNANIMATED.010
+  - first:
+      74: -5478292353984019028
+    second: MurlocFleshEater Nodes|Attack 1.010
+  - first:
+      74: -2422959035107740346
+    second: MurlocFleshEater Nodes|Attack Spell 1.002
+  - first:
+      74: -4002269645222670164
+    second: MurlocFleshEater Nodes|Attack Spell Swim 1.009
+  - first:
+      74: 2645861147118417947
+    second: MurlocFleshEater Nodes|Death 1.010
+  - first:
+      74: -1074373757877210909
+    second: MurlocFleshEater Nodes|Death Swim 1.010
+  - first:
+      74: 4463556944058604645
+    second: MurlocFleshEater Nodes|Decay Bone.010
+  - first:
+      74: 2630802692400899065
+    second: MurlocFleshEater Nodes|Decay Flesh.010
+  - first:
+      74: -7299857570802776492
+    second: MurlocFleshEater Nodes|Decay Swim.010
+  - first:
+      74: 8240052381602892985
+    second: MurlocFleshEater Nodes|Spell 1.009
+  - first:
+      74: -5710691013247415746
+    second: MurlocFleshEater Nodes|Stand 1.010
+  - first:
+      74: -6488441041882021887
+    second: MurlocFleshEater Nodes|Stand 2.010
+  - first:
+      74: 7999455791976298119
+    second: MurlocFleshEater Nodes|Stand 3.010
+  - first:
+      74: -4355515340805278743
+    second: MurlocFleshEater Nodes|Stand Channel 1
+  - first:
+      74: 991901369969431805
+    second: MurlocFleshEater Nodes|Stand Swim 1.010
+  - first:
+      74: -286669114517798159
+    second: MurlocFleshEater Nodes|Walk 1.010
+  - first:
+      74: 4916590323786618235
+    second: MurlocFleshEater Nodes|Walk Swim 1.010
+  - first:
+      74: -9103946203607295266
+    second: MurlocFleshEater Nodes|MurlocFleshEater Nodes|MurlocFleshEater Nodes|#UNANIMATED.010|M
+  - first:
+      74: -9211920885001327567
+    second: MurlocFleshEater Nodes|MurlocFleshEater Nodes|MurlocFleshEater Nodes|Attack
+      1.010|Murl
+  - first:
+      74: 3939263549693423014
+    second: MurlocFleshEater Nodes|MurlocFleshEater Nodes|MurlocFleshEater Nodes|Attack
+      Spell 1.00
+  - first:
+      74: -6578813074684723515
+    second: MurlocFleshEater Nodes|MurlocFleshEater Nodes|MurlocFleshEater Nodes|Attack
+      Spell Swim
+  - first:
+      74: 9188729845524409195
+    second: MurlocFleshEater Nodes|MurlocFleshEater Nodes|MurlocFleshEater Nodes|Death
+      1.010|Murlo
+  - first:
+      74: -571057058631018210
+    second: MurlocFleshEater Nodes|MurlocFleshEater Nodes|MurlocFleshEater Nodes|Death
+      Swim 1.010|
+  - first:
+      74: -5769502745510730477
+    second: MurlocFleshEater Nodes|MurlocFleshEater Nodes|MurlocFleshEater Nodes|Decay
+      Bone.010|Mu
+  - first:
+      74: 8826694573958835744
+    second: MurlocFleshEater Nodes|MurlocFleshEater Nodes|MurlocFleshEater Nodes|Decay
+      Flesh.010|M
+  - first:
+      74: -6629320521876082977
+    second: MurlocFleshEater Nodes|MurlocFleshEater Nodes|MurlocFleshEater Nodes|Decay
+      Swim.010|Mu
+  - first:
+      74: 7044235981397235379
+    second: MurlocFleshEater Nodes|MurlocFleshEater Nodes|MurlocFleshEater Nodes|Spell
+      1.009|Murlo
+  - first:
+      74: -9215043321632859029
+    second: MurlocFleshEater Nodes|MurlocFleshEater Nodes|MurlocFleshEater Nodes|Stand
+      1.010|Murlo
+  - first:
+      74: -1696292751995923736
+    second: MurlocFleshEater Nodes|MurlocFleshEater Nodes|MurlocFleshEater Nodes|Stand
+      2.010|Murlo
+  - first:
+      74: -5977800766648160623
+    second: MurlocFleshEater Nodes|MurlocFleshEater Nodes|MurlocFleshEater Nodes|Stand
+      3.010|Murlo
+  - first:
+      74: -3360659780684983241
+    second: MurlocFleshEater Nodes|MurlocFleshEater Nodes|MurlocFleshEater Nodes|Stand
+      Channel 1|M
+  - first:
+      74: -3071702019300157688
+    second: MurlocFleshEater Nodes|MurlocFleshEater Nodes|MurlocFleshEater Nodes|Stand
+      Swim 1.010|
+  - first:
+      74: -4664336715179595268
+    second: MurlocFleshEater Nodes|MurlocFleshEater Nodes|MurlocFleshEater Nodes|Walk
+      1.010|Murloc
+  - first:
+      74: -947818148434052120
+    second: MurlocFleshEater Nodes|MurlocFleshEater Nodes|MurlocFleshEater Nodes|Walk
+      Swim 1.010|M
+  externalObjects: {}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

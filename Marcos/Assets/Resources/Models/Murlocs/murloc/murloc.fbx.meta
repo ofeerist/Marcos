@@ -1,0 +1,285 @@
+fileFormatVersion: 2
+guid: 3b393398ce3ab17cfa3f1ef26cfc4788
+ModelImporter:
+  serializedVersion: 21100
+  internalIDToNameTable:
+  - first:
+      74: 4326412059483696527
+    second: Murloc Nodes|#UNANIMATED.008
+  - first:
+      74: -4932218349237593927
+    second: Murloc Nodes|Attack 1.008
+  - first:
+      74: -1578359996181194789
+    second: Murloc Nodes|Attack 2.008
+  - first:
+      74: 6744566688548633134
+    second: Murloc Nodes|Attack Spell 1
+  - first:
+      74: 3109363686707049252
+    second: Murloc Nodes|Attack Spell Swim 1.007
+  - first:
+      74: -2982715145061805506
+    second: Murloc Nodes|Death 1.008
+  - first:
+      74: -5214651283294352457
+    second: Murloc Nodes|Death Swim 1.008
+  - first:
+      74: -2723912926891526913
+    second: Murloc Nodes|Decay Bone.008
+  - first:
+      74: 7893701551855087290
+    second: Murloc Nodes|Decay Flesh.008
+  - first:
+      74: 3363669822043980626
+    second: Murloc Nodes|Decay Swim.008
+  - first:
+      74: 316608635830017270
+    second: Murloc Nodes|Stand 1.008
+  - first:
+      74: -4549653201201131931
+    second: Murloc Nodes|Stand 2.008
+  - first:
+      74: 1166872174891052844
+    second: Murloc Nodes|Stand 3.008
+  - first:
+      74: -2523135837513403520
+    second: Murloc Nodes|Stand Swim 1.008
+  - first:
+      74: 3046263314169307072
+    second: Murloc Nodes|Walk 1.008
+  - first:
+      74: 7245005716892119671
+    second: Murloc Nodes|Walk Swim 1.008
+  - first:
+      74: -7473827727236039838
+    second: Murloc Nodes|Walk Swim 2.008
+  - first:
+      74: 1752047728862234992
+    second: Murloc Nodes|Murloc Nodes|Murloc Nodes|#UNANIMATED.008|Murloc Nodes|#UNANIMA
+  - first:
+      74: 6298275253799209066
+    second: Murloc Nodes|Murloc Nodes|Murloc Nodes|Attack 1.008|Murloc Nodes|Attack
+      1.00
+  - first:
+      74: 4578303667444380486
+    second: Murloc Nodes|Murloc Nodes|Murloc Nodes|Attack 2.008|Murloc Nodes|Attack
+      2.00
+  - first:
+      74: 2985744638554473363
+    second: Murloc Nodes|Murloc Nodes|Murloc Nodes|Attack Spell 1|Murloc Nodes|Attack
+      Sp
+  - first:
+      74: -746705568293988639
+    second: Murloc Nodes|Murloc Nodes|Murloc Nodes|Attack Spell Swim 1.007|Murloc
+      Nodes|
+  - first:
+      74: 3844993522363860296
+    second: Murloc Nodes|Murloc Nodes|Murloc Nodes|Death 1.008|Murloc Nodes|Death
+      1.008
+  - first:
+      74: -9094184721703232940
+    second: Murloc Nodes|Murloc Nodes|Murloc Nodes|Death Swim 1.008|Murloc Nodes|Death
+      S
+  - first:
+      74: 529996666476710477
+    second: Murloc Nodes|Murloc Nodes|Murloc Nodes|Decay Bone.008|Murloc Nodes|Decay
+      Bon
+  - first:
+      74: 5574921524405645960
+    second: Murloc Nodes|Murloc Nodes|Murloc Nodes|Decay Flesh.008|Murloc Nodes|Decay
+      Fl
+  - first:
+      74: 1269618266149229167
+    second: Murloc Nodes|Murloc Nodes|Murloc Nodes|Decay Swim.008|Murloc Nodes|Decay
+      Swi
+  - first:
+      74: -6966470355832707866
+    second: Murloc Nodes|Murloc Nodes|Murloc Nodes|Murloc Nodes|Murloc Nodes|#UNANIMATED
+  - first:
+      74: -6834963817701950731
+    second: 'Murloc Nodes|Murloc Nodes|Murloc Nodes|Murloc Nodes|Murloc Nodes|Attack '
+  - first:
+      74: 7881412387939892260
+    second: Murloc Nodes|Murloc Nodes|Murloc Nodes|Murloc Nodes|Murloc Nodes|Attack
+      1.00
+  - first:
+      74: -7215484162515980483
+    second: Murloc Nodes|Murloc Nodes|Murloc Nodes|Murloc Nodes|Murloc Nodes|Attack
+      2.00
+  - first:
+      74: 3000945725103554197
+    second: Murloc Nodes|Murloc Nodes|Murloc Nodes|Murloc Nodes|Murloc Nodes|Attack
+      Spel
+  - first:
+      74: 7976768232710022781
+    second: Murloc Nodes|Murloc Nodes|Murloc Nodes|Murloc Nodes|Murloc Nodes|Death
+      1.008
+  - first:
+      74: 3664792309493574519
+    second: 'Murloc Nodes|Murloc Nodes|Murloc Nodes|Murloc Nodes|Murloc Nodes|Death
+      Swim '
+  - first:
+      74: 2846879038790053665
+    second: Murloc Nodes|Murloc Nodes|Murloc Nodes|Murloc Nodes|Murloc Nodes|Decay
+      Bone.
+  - first:
+      74: -6772635104015119994
+    second: Murloc Nodes|Murloc Nodes|Murloc Nodes|Murloc Nodes|Murloc Nodes|Decay
+      Flesh
+  - first:
+      74: -4340218289149022082
+    second: Murloc Nodes|Murloc Nodes|Murloc Nodes|Murloc Nodes|Murloc Nodes|Decay
+      Swim.
+  - first:
+      74: 8943642357889409325
+    second: Murloc Nodes|Murloc Nodes|Murloc Nodes|Murloc Nodes|Murloc Nodes|Stand
+      1.008
+  - first:
+      74: -992890801162534469
+    second: Murloc Nodes|Murloc Nodes|Murloc Nodes|Murloc Nodes|Murloc Nodes|Stand
+      2.008
+  - first:
+      74: 1568299240684610153
+    second: Murloc Nodes|Murloc Nodes|Murloc Nodes|Murloc Nodes|Murloc Nodes|Stand
+      3.008
+  - first:
+      74: -8939585829963032730
+    second: 'Murloc Nodes|Murloc Nodes|Murloc Nodes|Murloc Nodes|Murloc Nodes|Stand
+      Swim '
+  - first:
+      74: -5637699814405008993
+    second: Murloc Nodes|Murloc Nodes|Murloc Nodes|Murloc Nodes|Murloc Nodes|Walk
+      1.008|
+  - first:
+      74: 6354334033813600428
+    second: Murloc Nodes|Murloc Nodes|Murloc Nodes|Murloc Nodes|Murloc Nodes|Walk
+      Swim 1
+  - first:
+      74: 4233395651622714750
+    second: Murloc Nodes|Murloc Nodes|Murloc Nodes|Murloc Nodes|Murloc Nodes|Walk
+      Swim 2
+  - first:
+      74: -4767507100429512078
+    second: Murloc Nodes|Murloc Nodes|Murloc Nodes|Stand 1.008|Murloc Nodes|Stand
+      1.008
+  - first:
+      74: 327450942853704029
+    second: Murloc Nodes|Murloc Nodes|Murloc Nodes|Stand 2.008|Murloc Nodes|Stand
+      2.008
+  - first:
+      74: -494614360673905415
+    second: Murloc Nodes|Murloc Nodes|Murloc Nodes|Stand 3.008|Murloc Nodes|Stand
+      3.008
+  - first:
+      74: -5799294372698828051
+    second: Murloc Nodes|Murloc Nodes|Murloc Nodes|Stand Swim 1.008|Murloc Nodes|Stand
+      S
+  - first:
+      74: 3820341692150600864
+    second: Murloc Nodes|Murloc Nodes|Murloc Nodes|Walk 1.008|Murloc Nodes|Walk 1.008
+  - first:
+      74: -8840917445102174680
+    second: Murloc Nodes|Murloc Nodes|Murloc Nodes|Walk Swim 1.008|Murloc Nodes|Walk
+      Swi
+  - first:
+      74: -7993210628465374159
+    second: Murloc Nodes|Murloc Nodes|Murloc Nodes|Walk Swim 2.008|Murloc Nodes|Walk
+      Swi
+  externalObjects: {}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

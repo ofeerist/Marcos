@@ -1,0 +1,596 @@
+fileFormatVersion: 2
+guid: 9c6f2d0bfa9521d72a6b4ccd18854f0d
+ModelImporter:
+  serializedVersion: 21100
+  internalIDToNameTable:
+  - first:
+      74: -24729184245174089
+    second: MurlocPlaguebearer Nodes|#UNANIMATED.013
+  - first:
+      74: 6618960418954388881
+    second: MurlocPlaguebearer Nodes|Attack 1.013
+  - first:
+      74: -311937789964377132
+    second: MurlocPlaguebearer Nodes|Attack Spell Swim 1.012
+  - first:
+      74: 572903254572245199
+    second: MurlocPlaguebearer Nodes|Death 1.013
+  - first:
+      74: -986400983709803298
+    second: MurlocPlaguebearer Nodes|Death Swim 1.013
+  - first:
+      74: -2408386824139159940
+    second: MurlocPlaguebearer Nodes|Decay Bone.013
+  - first:
+      74: 2835704757366830402
+    second: MurlocPlaguebearer Nodes|Decay Flesh.013
+  - first:
+      74: -9123139718051746034
+    second: MurlocPlaguebearer Nodes|Decay Swim.013
+  - first:
+      74: -7279077202959637277
+    second: MurlocPlaguebearer Nodes|Spell 1.012
+  - first:
+      74: -573885947926053379
+    second: MurlocPlaguebearer Nodes|Stand 1.013
+  - first:
+      74: 8375995777007539302
+    second: MurlocPlaguebearer Nodes|Stand Swim 1.013
+  - first:
+      74: 4810731034057058235
+    second: MurlocPlaguebearer Nodes|Walk 1.013
+  - first:
+      74: 7469056118926445837
+    second: MurlocPlaguebearer Nodes|Walk Swim 1.013
+  - first:
+      74: 952349318807717969
+    second: MurlocPlaguebearer Nodes|MurlocPlaguebearer Nodes|MurlocPlaguebearer
+      Nodes|#UNANIMATED.0
+  - first:
+      74: 1255338798052437250
+    second: MurlocPlaguebearer Nodes|MurlocPlaguebearer Nodes|MurlocPlaguebearer
+      Nodes|Attack 1.013|
+  - first:
+      74: 4132304551922755612
+    second: 'MurlocPlaguebearer Nodes|MurlocPlaguebearer Nodes|MurlocPlaguebearer
+      Nodes|Attack Spell '
+  - first:
+      74: -4935679019121350380
+    second: MurlocPlaguebearer Nodes|MurlocPlaguebearer Nodes|MurlocPlaguebearer
+      Nodes|Death 1.013|M
+  - first:
+      74: -5191590415724072825
+    second: MurlocPlaguebearer Nodes|MurlocPlaguebearer Nodes|MurlocPlaguebearer
+      Nodes|Death Swim 1.
+  - first:
+      74: -6622969299990610651
+    second: MurlocPlaguebearer Nodes|MurlocPlaguebearer Nodes|MurlocPlaguebearer
+      Nodes|Decay Bone.01
+  - first:
+      74: -2374563357474731384
+    second: MurlocPlaguebearer Nodes|MurlocPlaguebearer Nodes|MurlocPlaguebearer
+      Nodes|Decay Flesh.0
+  - first:
+      74: -5250246536462354297
+    second: MurlocPlaguebearer Nodes|MurlocPlaguebearer Nodes|MurlocPlaguebearer
+      Nodes|Decay Swim.01
+  - first:
+      74: -1833267746068230390
+    second: MurlocPlaguebearer Nodes|MurlocPlaguebearer Nodes|MurlocPlaguebearer
+      Nodes|Spell 1.012|M
+  - first:
+      74: -3173831042499346202
+    second: MurlocPlaguebearer Nodes|MurlocPlaguebearer Nodes|MurlocPlaguebearer
+      Nodes|Stand 1.013|M
+  - first:
+      74: -1532128411742910526
+    second: MurlocPlaguebearer Nodes|MurlocPlaguebearer Nodes|MurlocPlaguebearer
+      Nodes|Stand Swim 1.
+  - first:
+      74: -333066733483392917
+    second: MurlocPlaguebearer Nodes|MurlocPlaguebearer Nodes|MurlocPlaguebearer
+      Nodes|Walk 1.013|Mu
+  - first:
+      74: 4924759696115085126
+    second: MurlocPlaguebearer Nodes|MurlocPlaguebearer Nodes|MurlocPlaguebearer
+      Nodes|Walk Swim 1.0
+  externalObjects: {}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: MurlocPlaguebearer Nodes|MurlocPlaguebearer Nodes|MurlocPlaguebearer
+        Nodes|#UNANIMATED.0
+      takeName: MurlocPlaguebearer Nodes|MurlocPlaguebearer Nodes|MurlocPlaguebearer
+        Nodes|#UNANIMATED.0
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: MurlocPlaguebearer Nodes|MurlocPlaguebearer Nodes|MurlocPlaguebearer
+        Nodes|Attack 1.013|
+      takeName: MurlocPlaguebearer Nodes|MurlocPlaguebearer Nodes|MurlocPlaguebearer
+        Nodes|Attack 1.013|
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 35
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: 'MurlocPlaguebearer Nodes|MurlocPlaguebearer Nodes|MurlocPlaguebearer
+        Nodes|Attack Spell '
+      takeName: 'MurlocPlaguebearer Nodes|MurlocPlaguebearer Nodes|MurlocPlaguebearer
+        Nodes|Attack Spell '
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 35
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: MurlocPlaguebearer Nodes|MurlocPlaguebearer Nodes|MurlocPlaguebearer
+        Nodes|Death 1.013|M
+      takeName: MurlocPlaguebearer Nodes|MurlocPlaguebearer Nodes|MurlocPlaguebearer
+        Nodes|Death 1.013|M
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 39
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: MurlocPlaguebearer Nodes|MurlocPlaguebearer Nodes|MurlocPlaguebearer
+        Nodes|Death Swim 1.
+      takeName: MurlocPlaguebearer Nodes|MurlocPlaguebearer Nodes|MurlocPlaguebearer
+        Nodes|Death Swim 1.
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 39
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: MurlocPlaguebearer Nodes|MurlocPlaguebearer Nodes|MurlocPlaguebearer
+        Nodes|Decay Bone.01
+      takeName: MurlocPlaguebearer Nodes|MurlocPlaguebearer Nodes|MurlocPlaguebearer
+        Nodes|Decay Bone.01
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 1440
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: MurlocPlaguebearer Nodes|MurlocPlaguebearer Nodes|MurlocPlaguebearer
+        Nodes|Decay Flesh.0
+      takeName: MurlocPlaguebearer Nodes|MurlocPlaguebearer Nodes|MurlocPlaguebearer
+        Nodes|Decay Flesh.0
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 1440
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: MurlocPlaguebearer Nodes|MurlocPlaguebearer Nodes|MurlocPlaguebearer
+        Nodes|Decay Swim.01
+      takeName: MurlocPlaguebearer Nodes|MurlocPlaguebearer Nodes|MurlocPlaguebearer
+        Nodes|Decay Swim.01
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 1440
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: MurlocPlaguebearer Nodes|MurlocPlaguebearer Nodes|MurlocPlaguebearer
+        Nodes|Spell 1.012|M
+      takeName: MurlocPlaguebearer Nodes|MurlocPlaguebearer Nodes|MurlocPlaguebearer
+        Nodes|Spell 1.012|M
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 41
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: MurlocPlaguebearer Nodes|MurlocPlaguebearer Nodes|MurlocPlaguebearer
+        Nodes|Stand 1.013|M
+      takeName: MurlocPlaguebearer Nodes|MurlocPlaguebearer Nodes|MurlocPlaguebearer
+        Nodes|Stand 1.013|M
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 27
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: MurlocPlaguebearer Nodes|MurlocPlaguebearer Nodes|MurlocPlaguebearer
+        Nodes|Stand Swim 1.
+      takeName: MurlocPlaguebearer Nodes|MurlocPlaguebearer Nodes|MurlocPlaguebearer
+        Nodes|Stand Swim 1.
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 34
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: MurlocPlaguebearer Nodes|MurlocPlaguebearer Nodes|MurlocPlaguebearer
+        Nodes|Walk 1.013|Mu
+      takeName: MurlocPlaguebearer Nodes|MurlocPlaguebearer Nodes|MurlocPlaguebearer
+        Nodes|Walk 1.013|Mu
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 15
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: MurlocPlaguebearer Nodes|MurlocPlaguebearer Nodes|MurlocPlaguebearer
+        Nodes|Walk Swim 1.0
+      takeName: MurlocPlaguebearer Nodes|MurlocPlaguebearer Nodes|MurlocPlaguebearer
+        Nodes|Walk Swim 1.0
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 33
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

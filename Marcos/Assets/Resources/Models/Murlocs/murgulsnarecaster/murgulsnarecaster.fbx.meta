@@ -1,0 +1,332 @@
+fileFormatVersion: 2
+guid: 3ef1aafe5709cdc84b29aa78186f153b
+ModelImporter:
+  serializedVersion: 21100
+  internalIDToNameTable:
+  - first:
+      74: -4230621507659454215
+    second: MurgulSnarecaster Nodes|#UNANIMATED.006
+  - first:
+      74: 1985943735557570226
+    second: MurgulSnarecaster Nodes|Attack 1.001
+  - first:
+      74: 1455796382065280935
+    second: MurgulSnarecaster Nodes|Attack 1.006
+  - first:
+      74: -853773406922319926
+    second: MurgulSnarecaster Nodes|Attack 2.001
+  - first:
+      74: 7286775782177350496
+    second: MurgulSnarecaster Nodes|Attack 2.006
+  - first:
+      74: 8565563380135980995
+    second: MurgulSnarecaster Nodes|Attack Spell Swim 1.001
+  - first:
+      74: -1586638808974418707
+    second: MurgulSnarecaster Nodes|Attack Spell Swim 1.005
+  - first:
+      74: 3051538208625442303
+    second: MurgulSnarecaster Nodes|Death 1.001
+  - first:
+      74: 7781147295363482332
+    second: MurgulSnarecaster Nodes|Death 1.006
+  - first:
+      74: -317713181190798414
+    second: MurgulSnarecaster Nodes|Death Swim 1.001
+  - first:
+      74: 8260245415469505528
+    second: MurgulSnarecaster Nodes|Death Swim 1.006
+  - first:
+      74: -7558910100060452916
+    second: MurgulSnarecaster Nodes|Decay Bone.001
+  - first:
+      74: 525984883581427134
+    second: MurgulSnarecaster Nodes|Decay Bone.006
+  - first:
+      74: -4379808382450453386
+    second: MurgulSnarecaster Nodes|Decay Flesh.001
+  - first:
+      74: 1759635969567277916
+    second: MurgulSnarecaster Nodes|Decay Flesh.006
+  - first:
+      74: -4527720231885142700
+    second: MurgulSnarecaster Nodes|Decay Swim.001
+  - first:
+      74: -402522665483813377
+    second: MurgulSnarecaster Nodes|Decay Swim.006
+  - first:
+      74: -3344974033464491582
+    second: MurgulSnarecaster Nodes|Spell 1.001
+  - first:
+      74: -7894840144403011902
+    second: MurgulSnarecaster Nodes|Spell 1.006
+  - first:
+      74: 5723209913876815085
+    second: MurgulSnarecaster Nodes|Stand 1.001
+  - first:
+      74: 7677478321592220176
+    second: MurgulSnarecaster Nodes|Stand 1.006
+  - first:
+      74: -9118092814051679411
+    second: MurgulSnarecaster Nodes|Stand 2.001
+  - first:
+      74: 8195907438674087610
+    second: MurgulSnarecaster Nodes|Stand 2.006
+  - first:
+      74: -3188047637404240784
+    second: MurgulSnarecaster Nodes|Stand 3.001
+  - first:
+      74: -323219335154568375
+    second: MurgulSnarecaster Nodes|Stand 3.006
+  - first:
+      74: -7194472209929712864
+    second: MurgulSnarecaster Nodes|Stand Swim 1.001
+  - first:
+      74: -3198640160383857123
+    second: MurgulSnarecaster Nodes|Stand Swim 1.006
+  - first:
+      74: 7704939175819764708
+    second: MurgulSnarecaster Nodes|Walk 1.001
+  - first:
+      74: -3376523462361606235
+    second: MurgulSnarecaster Nodes|Walk 1.006
+  - first:
+      74: 5188723209885654475
+    second: MurgulSnarecaster Nodes|Walk Swim 1.001
+  - first:
+      74: 1157770960502082225
+    second: MurgulSnarecaster Nodes|Walk Swim 1.006
+  - first:
+      74: 2144587008391608735
+    second: MurgulSnarecaster Nodes|Walk Swim 2.001
+  - first:
+      74: -6391275391318332633
+    second: MurgulSnarecaster Nodes|Walk Swim 2.006
+  - first:
+      74: -5828201264205605155
+    second: MurgulSnarecaster Nodes|MurgulSnarecaster Nodes|MurgulSnarecaster Nodes|#UNANIMATED.006
+  - first:
+      74: -3889800875793209224
+    second: MurgulSnarecaster Nodes|MurgulSnarecaster Nodes|MurgulSnarecaster Nodes|Attack
+      1.001|Mu
+  - first:
+      74: -9097486690851950546
+    second: MurgulSnarecaster Nodes|MurgulSnarecaster Nodes|MurgulSnarecaster Nodes|Attack
+      1.006|Mu
+  - first:
+      74: -5254171730589595751
+    second: MurgulSnarecaster Nodes|MurgulSnarecaster Nodes|MurgulSnarecaster Nodes|Attack
+      2.001|Mu
+  - first:
+      74: -4306448010797200451
+    second: MurgulSnarecaster Nodes|MurgulSnarecaster Nodes|MurgulSnarecaster Nodes|Attack
+      2.006|Mu
+  - first:
+      74: -7924664388881513733
+    second: MurgulSnarecaster Nodes|MurgulSnarecaster Nodes|MurgulSnarecaster Nodes|Attack
+      Spel
+  - first:
+      74: 8341822042055473591
+    second: MurgulSnarecaster Nodes|MurgulSnarecaster Nodes|MurgulSnarecaster Nodes|Attack
+      Spell Sw
+  - first:
+      74: 8773628217775312413
+    second: MurgulSnarecaster Nodes|MurgulSnarecaster Nodes|MurgulSnarecaster Nodes|Death
+      1.001|Mur
+  - first:
+      74: 8039804276964709500
+    second: MurgulSnarecaster Nodes|MurgulSnarecaster Nodes|MurgulSnarecaster Nodes|Death
+      1.006|Mur
+  - first:
+      74: 91807914659003867
+    second: 'MurgulSnarecaster Nodes|MurgulSnarecaster Nodes|MurgulSnarecaster Nodes|Death
+      Swim '
+  - first:
+      74: -8043231096921984375
+    second: MurgulSnarecaster Nodes|MurgulSnarecaster Nodes|MurgulSnarecaster Nodes|Death
+      Swim 1.00
+  - first:
+      74: 4158210540847966865
+    second: MurgulSnarecaster Nodes|MurgulSnarecaster Nodes|MurgulSnarecaster Nodes|Decay
+      Bone.001|
+  - first:
+      74: -7603467252765136539
+    second: MurgulSnarecaster Nodes|MurgulSnarecaster Nodes|MurgulSnarecaster Nodes|Decay
+      Bone.006|
+  - first:
+      74: -8865042058015752246
+    second: MurgulSnarecaster Nodes|MurgulSnarecaster Nodes|MurgulSnarecaster Nodes|Decay
+      Flesh.001
+  - first:
+      74: -2652381857667535707
+    second: MurgulSnarecaster Nodes|MurgulSnarecaster Nodes|MurgulSnarecaster Nodes|Decay
+      Flesh.006
+  - first:
+      74: -4280609816848708825
+    second: MurgulSnarecaster Nodes|MurgulSnarecaster Nodes|MurgulSnarecaster Nodes|Decay
+      Swim.001|
+  - first:
+      74: 4279469924448748107
+    second: MurgulSnarecaster Nodes|MurgulSnarecaster Nodes|MurgulSnarecaster Nodes|Decay
+      Swim.006|
+  - first:
+      74: -6781625706200335995
+    second: MurgulSnarecaster Nodes|MurgulSnarecaster Nodes|MurgulSnarecaster Nodes|Spell
+      1.001|Mur
+  - first:
+      74: -5604893647059956553
+    second: MurgulSnarecaster Nodes|MurgulSnarecaster Nodes|MurgulSnarecaster Nodes|Spell
+      1.006|Mur
+  - first:
+      74: 2321887177648440155
+    second: MurgulSnarecaster Nodes|MurgulSnarecaster Nodes|MurgulSnarecaster Nodes|Stand
+      1.001|Mur
+  - first:
+      74: 1074690194916994815
+    second: MurgulSnarecaster Nodes|MurgulSnarecaster Nodes|MurgulSnarecaster Nodes|Stand
+      1.006|Mur
+  - first:
+      74: -6782116196045842680
+    second: MurgulSnarecaster Nodes|MurgulSnarecaster Nodes|MurgulSnarecaster Nodes|Stand
+      2.001|Mur
+  - first:
+      74: 8904334105335891549
+    second: MurgulSnarecaster Nodes|MurgulSnarecaster Nodes|MurgulSnarecaster Nodes|Stand
+      2.006|Mur
+  - first:
+      74: 8800729238450725010
+    second: MurgulSnarecaster Nodes|MurgulSnarecaster Nodes|MurgulSnarecaster Nodes|Stand
+      3.001|Mur
+  - first:
+      74: 962872024103607278
+    second: MurgulSnarecaster Nodes|MurgulSnarecaster Nodes|MurgulSnarecaster Nodes|Stand
+      3.006|Mur
+  - first:
+      74: 4472656205196933134
+    second: 'MurgulSnarecaster Nodes|MurgulSnarecaster Nodes|MurgulSnarecaster Nodes|Stand
+      Swim '
+  - first:
+      74: -2934886185420911139
+    second: MurgulSnarecaster Nodes|MurgulSnarecaster Nodes|MurgulSnarecaster Nodes|Stand
+      Swim 1.00
+  - first:
+      74: 214088070097587699
+    second: MurgulSnarecaster Nodes|MurgulSnarecaster Nodes|MurgulSnarecaster Nodes|Walk
+      1.001|Murg
+  - first:
+      74: -5969656849362997866
+    second: MurgulSnarecaster Nodes|MurgulSnarecaster Nodes|MurgulSnarecaster Nodes|Walk
+      1.006|Murg
+  - first:
+      74: 4374971845065583356
+    second: MurgulSnarecaster Nodes|MurgulSnarecaster Nodes|MurgulSnarecaster Nodes|Walk
+      Swim 1.001
+  - first:
+      74: -5681471816037574153
+    second: MurgulSnarecaster Nodes|MurgulSnarecaster Nodes|MurgulSnarecaster Nodes|Walk
+      Swim 1.006
+  - first:
+      74: 2348765343821143889
+    second: MurgulSnarecaster Nodes|MurgulSnarecaster Nodes|MurgulSnarecaster Nodes|Walk
+      Swim 2.001
+  - first:
+      74: -1191129877026960921
+    second: MurgulSnarecaster Nodes|MurgulSnarecaster Nodes|MurgulSnarecaster Nodes|Walk
+      Swim 2.006
+  externalObjects: {}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

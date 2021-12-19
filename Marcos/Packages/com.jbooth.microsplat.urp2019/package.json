@@ -1,0 +1,29 @@
+{
+  "name": "com.jbooth.microsplat.urp2019",
+  "displayName": "MicroSplat-CoreURP2019",
+  "version": "3.8.0",
+  "author": {
+    "name": "Jason Booth",
+    "email": "slipster216@gmail.com",
+    "url": "http://jdbtechservices.com/"
+  },
+  "unity": "2019.4",
+  "samples": [
+    {
+      "displayName": "URP2019 Example",
+      "description": "Example of URP2019",
+      "path": "Samples~/URP2019"
+    }
+  ],
+  "dependencies": {
+    "com.jbooth.microsplat.core": "3.8.0"
+  },
+  "description": "The URP2019 module for MicroSplat allows MicroSplat to compile it's shaders for URP 7.x in Unity 2019LTS",
+  "keywords": [
+    "MicroSplat",
+    "Terrain",
+    "Shader"
+  ],
+  "documentationUrl": "https://docs.google.com/document/d/1i29Tp5WcsFcIHCVgWV4rSnjgpw1kyENaVSSkHhgu0ro/edit?usp=sharing",
+  "type": "tool"
+}
